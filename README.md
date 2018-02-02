@@ -1,5 +1,5 @@
 # noyw
-Number On Your Way (NOYW) is a simple memory game to be played by commuters (who are not driving). 
+Number On Your Way (noyw) is a simple memory game to be played by commuters (who are not driving). 
 
 #### Rules of the game
 
